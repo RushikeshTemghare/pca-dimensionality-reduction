@@ -1,4 +1,4 @@
-# 📉 Principal Component Analysis (PCA) for Dimensionality Reduction
+# Principal Component Analysis (PCA) for Dimensionality Reduction
 
 Demonstrating dimensionality reduction using **Principal Component Analysis (PCA)** to transform high-dimensional data into a lower-dimensional feature space while preserving the maximum possible variance.
 
